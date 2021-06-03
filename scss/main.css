@@ -197,6 +197,10 @@ body {
   margin-right: 1em;
 }
 
+.card__images {
+  position: relative;
+}
+
 .card__img {
   max-width: 100%;
   z-index: 0;
